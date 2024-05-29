@@ -1,0 +1,9 @@
+# global catch-all individuals/teams
+*  @raccoon-aiqs
+
+# python filetype codeowners
+*.py  @raccoon-aiqs
+
+# specific folder codeowners
+/Applications/audiobook/  @raccoon-aiqs
+
