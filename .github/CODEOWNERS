@@ -2,8 +2,8 @@
 *  @raccoon-aiqs
 
 # python filetype codeowners
-*.py  @raccoon-aiqs
+*.py  @brdrjmpr
 
 # specific folder codeowners
-/Applications/audiobook/  @raccoon-aiqs
+/Applications/audiobook/  @bjmpainter
 
