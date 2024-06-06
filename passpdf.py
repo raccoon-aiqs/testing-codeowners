@@ -22,6 +22,6 @@ password = getpass.getpass(prompt = "Set a Password: ")
 writer.encrypt(password)
 
 # Opens a new pdf (write brinary permission) and writes the content of the 'writer' into it
-with open('secured.pdf', 'wb') as f:
-    writer.write(f)
-    f.close()
+# with open('secured.pdf', 'wb') as f:
+#     writer.write(f)
+#     f.close()
